@@ -1,5 +1,5 @@
 # NextPlus
-NextPlus App and Bluestack Emulator Number Automated Registration
+NextPlus App and Bluestack Emulator Number Automated Registration, Pixel Recognition.
 
 If you have plans on using this for NextPlus I would suggest to use your own database, I used a clients web based DB inputs so I had to automate it from a browser.
 
